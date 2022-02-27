@@ -47,7 +47,8 @@ if (file_exists(dirname(__FILE__) . '/vendor/autoload.php')) {
  *
  * @return void
  */
-function activate_finna_plugin_template() {
+function activate_finna_plugin_template()
+{
     Inc\Base\Activate::activate();
 }
 register_activation_hook(__FILE__, 'activate_finna_plugin_template');
@@ -57,7 +58,8 @@ register_activation_hook(__FILE__, 'activate_finna_plugin_template');
  *
  * @return void
  */
-function deactivate_finna_plugin_template() {
+function deactivate_finna_plugin_template()
+{
     Inc\Base\Deactivate::deactivate();
 }
 register_deactivation_hook(__FILE__, 'deactivate_finna_plugin_template');
