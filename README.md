@@ -43,11 +43,15 @@ _Make sure to cd into the plugin folder_
 composer install
 ```
 
+&nbsp;
+
 **3. Install npm dependencies**
 
 ```shell
 npm install
 ```
+
+&nbsp;
 
 ## Development
 
