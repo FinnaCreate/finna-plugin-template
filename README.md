@@ -82,7 +82,7 @@ npm run watch-sync
 
 ## Production Build
 
-To build for production run:
+**To build for production run:**
 
 ```shell
 npm run production
