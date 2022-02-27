@@ -1,0 +1,1 @@
+# finna-plugin-template
