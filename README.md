@@ -19,8 +19,6 @@ Includes:
 
 ## Installation
 
----
-
 **1. Clone into wordpress plugins folder**
 
 ```shell
@@ -54,8 +52,6 @@ npm install
 &nbsp;
 
 ## Development
-
----
 
 **Run npm script to have both esbuild automatically run new build when files change and browser sync automatially reload the page in the browser**
 
