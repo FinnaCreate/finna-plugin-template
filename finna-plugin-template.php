@@ -7,7 +7,7 @@
  *
  * Plugin Name: Finna Plugin Template
  * Plugin URI: https://github.com/FinnaCreate/finna-plugin-template
- * Description: Fully featured invoicing system built directly into your WordPress website.
+ * Description: Finna Create plugin starter boilerplate
  * Version: 1.0
  * Author: Finna Create
  * Author URI: https://finnacreate.com

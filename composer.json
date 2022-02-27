@@ -1,6 +1,6 @@
 {
     "name": "finnacreate/finna-plugin-template",
-    "description": "Finna plugin boilerplate.",
+    "description": "Finna Create plugin starter boilerplate.",
     "type": "wordpress-plugin",
     "keywords": [
         "WordPress",
